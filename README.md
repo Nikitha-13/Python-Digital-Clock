@@ -4,4 +4,4 @@ The Python Digital Clock project is a versatile and user-friendly application th
 If you have any queries feel free to contact me at pindinikitha00@gmail.com or at https://www.linkedin.com/in/Nikitha-pindi.
 
 Have a Great Learning :)
-              
+                
